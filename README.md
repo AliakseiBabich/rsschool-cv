@@ -1,2 +1,2 @@
-1. https://AliakseiBabich.github.io/rsschool-cv/cv
-2. https://AliakseiBabich.github.io/rsschool-cv
+https://AliakseiBabich.github.io/rsschool-cv/cv  
+https://AliakseiBabich.github.io/rsschool-cv
