@@ -1,0 +1,57 @@
+body {
+    font-size: 20px;
+    line-height: 25px;
+}
+h3 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: sandybrown;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    max-height: 550px;
+}
+.photo {
+    height: 550px;
+    width: 55%;
+    margin-right: 0;
+    background: url(./1.1.jpg) center center/cover no-repeat;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.header {
+    padding: 0 75px;
+    width: 45%;
+}
+.header .name {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.header>.about-me {
+    font-size: 20px;
+}
+.main {
+    padding-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+.main .column {
+    width: 50%;
+    padding: 0 40px;
+}
+section {
+    margin-bottom: 25px;
+}
+span {
+    font-style: italic;
+}
+td {
+    padding: 5px 15px;
+}
